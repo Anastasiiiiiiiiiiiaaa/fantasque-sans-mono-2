@@ -1,0 +1,826 @@
+html{
+  background-color: #00003E;
+}
+body{
+  overflow-x: hidden;
+  width: 100%;
+}
+
+/* блок 1 — первый экран */
+.firstp{
+   width: 100%;
+   position: relative;
+   height: 1972px;
+   display: block;
+}
+.aaa{
+   display: flex;
+   justify-content: center;
+   margin-top: 19px;
+   margin-left: 105px;
+}
+.img_1{
+   width: 100%;
+}
+.W, .E2, .L, .C, .O, .M, .E3{
+   font-family: 'Fantasque Sans Mono Bold';
+   font-style: bold;
+   font-weight: bold;
+   color: #220DFF;
+   text-align: center;
+   margin-top: -155.5%;
+}
+.W{
+   font-size: 129px;
+   margin-left: -675px;
+}
+.E2{
+   margin-left: -26%;
+   margin-top: -6%;
+   font-size: 125px;
+}
+.L{
+   margin-left: -7%;
+   margin-top: -5%;
+   font-size: 121px;
+}
+.C{
+   margin-left: 11.5%;
+   margin-top: -4.5%;
+   font-size: 117px;
+}
+.O{
+   margin-left: 30.5%;
+   margin-top: -4.6%;
+   font-size: 113px;
+}
+.M{
+   margin-left: 48.5%;
+   margin-top: -4.3%;
+   font-size: 109px;
+}
+.E3{
+   margin-left: 66%;
+   margin-top: -4.3%;
+   font-size: 105px;
+}
+.F, .A1, .N1, .T, .A2, .S, .Q, .U, .E, .S1, .A3, .N2, .S2{
+   font-family: 'Fantasque Sans Mono Bold';
+   font-style: bold;
+   font-weight: bold;
+   color: #00003E;
+   text-align: center;
+   margin-top: -0%;
+ }
+.F{
+   margin-top: -18%;
+   margin-left: -50%;
+   font-size: 170px;
+ }
+ .A1 {
+   margin-top: -10%;
+   margin-left: -37%;
+   font-size: 167px;
+ }
+ .N1{
+   margin-top: -8%;
+   margin-left: -21%;
+   font-size: 164px;
+ }
+ .T{
+   margin-top: -8%;
+   margin-left: -6%;
+   font-size: 161px;
+ }
+ .A2{
+   margin-top: -8%;
+   margin-left: 6%;
+   font-size: 158px;
+ }
+ .S{
+   margin-top: -8%;
+   margin-left: 21%;
+   font-size: 155px;
+ }
+ .Q{
+   margin-top: -8%;
+   margin-left: 36%;
+   font-size: 152px;
+ }
+ .U{
+   margin-top: -8%;
+   margin-left: 51%;
+   font-size: 149px;
+ }
+ .E{
+   margin-top: -8%;
+   margin-left: 65%;
+   font-size: 152px;
+ }
+
+ .S1{
+   margin-top: -17%;
+   margin-left: -21%;
+   font-size: 164px;
+ }
+ .A3{
+   margin-top: -8%;
+   margin-left: -8%;
+   font-size: 161px;
+ }
+ .N2{
+   margin-top: -8%;
+   margin-left: 7%;
+   font-size: 158px;
+ }
+ .S2{
+   margin-top: -8%;
+   margin-left: 21%;
+   font-size: 155px;
+ }
+
+
+
+/* вторая секция — американские горки */
+.secondp{
+   width: 100%;
+   position: relative;
+   height: 620px;
+   display: block;
+}
+.bbb{
+   display: flex;
+   justify-content: center;
+   margin-top: -720px;
+   margin-left: 320px;
+}
+.img_2{
+   width: 80%;
+   /* margin-left: 440px;
+   margin-top: -720px; */
+}
+.i1, .i2 {
+   font-family: 'Fantasque Sans Mono Regular';
+   font-style: normal;
+   font-weight: normal;
+   color: #220DFF;
+   -webkit-text-stroke: 8px #34CF12;
+   text-align: center;
+}
+.i1{
+   margin-top: -127%;
+   margin-left: -26%;
+   font-size: 1150px;
+   transform: rotate(29deg);
+}
+.i2{
+   margin-top: -90%;
+   margin-left: -59%;
+   font-size: 1450px;
+   transform: rotate(28deg);
+}
+.n3, .n4, .n5{
+   font-family: 'Fantasque Sans Mono Regular';
+   font-style: normal;
+   font-weight: normal;
+   color: #FF3C00;
+   -webkit-text-stroke: 8px #34CF12;
+   font-size: 444px;
+   transform: rotate(117deg);
+   text-align: center;
+}
+.n3{
+   margin-top: -68%;
+   margin-left: -47%;
+}
+.n4{
+   margin-top: -21.5%;
+   margin-left: -56%;
+}
+.n5{
+   margin-top: -21.44%;
+   margin-left: -65%;
+}
+
+.m, .o1, .n6, .o2{
+   font-family: 'Fantasque Sans Mono Bold';
+   font-style: bold;
+   font-weight: bold;
+   color: #E2E2E2;
+   transform: rotate(29deg);
+   text-align: center;
+ }
+.m{
+   font-size: 147px;
+   margin-top: -63%;
+   margin-left: -38%;
+}
+.o1{
+   font-size: 147px;
+   margin-top: -6.5%;
+   margin-left: -8%;
+}
+.n6{
+   font-size: 136px;
+   margin-top: -7%;
+   margin-left: 17%;
+}
+.o2{
+   font-size: 136px;
+   margin-top: -5.5%;
+   margin-left: 44.5%;
+}
+
+.n7{
+   font-family: 'Fantasque Sans Mono Regular';
+   font-style: normal;
+   font-weight: normal;
+   color: #FF3C00;
+   -webkit-text-stroke: 8px #34CF12;
+   font-size: 530px;
+   transform: rotate(82deg);
+   margin-top: 76%;
+   margin-left: 50%;
+   text-align: center;
+}
+.text_1{
+   font-family: 'Fantasque Sans Mono Regular';
+   font-style: normal;
+   font-weight: normal;
+   color: #E2E2E2;
+   margin-top: -28%;
+   margin-left: 15%;
+   font-size: 27px;
+}
+.glif1{
+   font-family: 'Fantasque Sans Mono Regular';
+   font-style: normal;
+   font-weight: normal;
+   color: #E2E2E2;
+   margin-top: -66.5%;
+   margin-left: 53.7%;
+   font-size: 98px;
+}
+.author, .year{
+   font-family: 'Fantasque Sans Mono Bold';
+   font-style: bold;
+   font-weight: bold;
+   color: #E2E2E2;
+   font-size: 57px;
+   transform: rotate(-5deg);
+}
+.author{
+   margin-top: 30%;
+   margin-left: 59%;
+}
+.year{
+   margin-top: 3%;
+   margin-left: 60.5%;
+}
+
+
+/* третья секция — игровой автомат */
+.thirdp{
+   width: 100%;
+   position: relative;
+   height: 1000px;
+   display: block;
+}
+.fon{
+   display: flex;
+   justify-content: center;
+   margin-top: 8%;
+}
+.str_1, .str_2{
+   margin-top: 0%;
+}
+.machine{
+   margin-top: 45%;
+   margin-left: -10.5%;
+}
+.str_2{
+   margin-left: -10%;
+}
+.str_1{
+   margin-left: 2%;
+}
+.monos, .technology, .no{
+   font-family: 'Fantasque Sans Mono Bold';
+   font-style: bold;
+   font-weight: bold;
+   color: #E2E2E2;
+}
+.monos{
+   font-size: 88px;
+   text-align: center;
+   margin-top: -99%;
+}
+.technology, .no{
+   font-size: 57px;
+   text-align: center;
+}
+.technology{
+   margin-top: 2.7%;
+}
+
+.kod{
+   font-family: 'Fantasque Sans Mono Regular';
+   font-style: normal;
+   font-weight: normal;
+   color: #34CF12;
+   font-size: 27px;
+   margin-left: 37.8%;
+   margin-top: 8%;
+} 
+.no{
+   margin-top: 10%;
+}
+.nerov{
+   font-family: 'Fantasque Sans Mono Regular';
+   font-style: normal;
+   font-weight: normal;
+   color: #FF3C00;
+   font-size: 57px;
+   margin-top: 10%;
+   margin-left: 32%;
+}
+.ii{
+   margin-left: 59%;
+   margin-top: -11%;
+   display: flex;
+
+}
+.i3, .i4{
+   font-family: 'Fantasque Sans Mono Regular';
+   font-style: normal;
+   font-weight: normal;
+   font-size: 236px;
+   color: #220DFF;
+}
+.i4{
+   margin-left: -8%;
+}
+.item1, .item2, .item3 {
+   width: 6.8px;
+   height: 101px;
+   background-color: #FF3C00;
+   margin-top: 85px;
+ }
+ .item1{
+   margin-left: -178px;
+ }
+ .item2{
+   margin-left: 68px;
+ }
+ .item3{
+   margin-left: 65px;
+ }
+
+/* четвертая секция — шарики */
+.four{
+   width: 100%;
+   position: relative;
+   height: 1000px;
+   display: flex;
+   margin-top: 43%;
+}
+.unic{
+   font-size: 27px;
+   font-family: 'Fantasque Sans Mono Regular';
+   font-style: normal;
+   font-weight: normal;
+   color: #E2E2E2;
+   margin-left: 30%;
+   margin-top: -53%;
+}
+.shar2{
+   margin-left: -2.1%;
+}
+/* пятая секция — начертания */
+.fifth{
+   width: 100%;
+   position: relative;
+   height: 1000px;
+   display: flex;
+   margin-top: 10%;
+}
+.flags{
+   width: 100%;
+   margin-left: 3%;
+}
+.lop{
+   margin-left: -26%;
+   margin-top: -15%;
+}
+.reg{
+   font-size: 57px;
+   font-family: 'Fantasque Sans Mono Regular';
+   font-style: normal;
+   font-weight: normal;
+   color: #34CF12;
+   margin-left: 10%;
+   margin-top: -62%;
+   transform: rotate(-24deg);
+}
+.bold{
+   font-size: 57px;
+   font-family: 'Fantasque Sans Mono Bold';
+   font-style: bold;
+   font-weight: bold;
+   color: #FF3C00;
+   margin-left: 14%;
+   margin-top: 12%;
+   transform: rotate(-16deg);
+}
+.boldit{
+   font-size: 57px;
+   font-family: 'Fantasque Sans Mono BoldItalic';
+   font-style: italic;
+   font-weight: bold;
+   color: #220DFF;
+   margin-left: 20%;
+   margin-top: 16%;
+   transform: rotate(-6deg);
+}
+.nach4{
+   font-size: 57px;
+   font-family: 'Fantasque Sans Mono Bold';
+   font-style: bold;
+   font-weight: bold;
+   color: #FF3C00;
+   margin-left: 59%;
+   margin-top: -30%;
+   transform: rotate(6deg);
+}
+.nach{
+   font-size: 27px;
+   font-family: 'Fantasque Sans Mono Regular';
+   font-style: normal;
+   font-weight: normal;
+   color: #E2E2E2;
+   margin-left: 56%;
+   margin-top: 14%;
+}
+
+/* шестая секция — лицо */
+.six{
+   width: 100%;
+   position: relative;
+   height: 1000px;
+   margin-top: -20.5%;
+}
+.face{
+   display: flex;
+   justify-content: center;
+   margin-left: 0%;
+}
+.ccc{
+   width: 100%;
+}
+.vkus{
+   font-size: 57px;
+   font-family: 'Fantasque Sans Mono Italic';
+   font-style: italic;
+   font-weight: normal;
+   color: #220DFF;
+   margin-left: 64%;
+   margin-top: -65%;
+}
+.pizza{
+   display: flex;
+   margin-left: 55%;
+   margin-top: -21.5%;
+}
+.p,.i5,.z1,.z2,.a4{
+   font-size: 85px;
+   color: #FF3C00;
+   font-family: 'Fantasque Sans Mono Regular';
+   font-style: normal;
+   font-weight: normal;
+}
+.i5{
+   margin-left: 7.5%;
+}
+.z1{
+   font-size: 80px;
+   margin-left: 8.5%;
+   margin-top: 0.8%;
+}
+.z2{
+   margin-left: 8.5%;
+}
+.a4{margin-left: 8.5%;}
+
+/* секция 7 — билеты */
+.seven{
+   width: 100%;
+   position: relative;
+   height: 1000px;
+   margin-top: 20%;
+}
+.turn{
+   display: flex;
+   justify-content: center;
+   margin-left: 0%;
+}
+.ddd, .iii{
+   width: 100%;
+}
+.tik1{
+   margin-left: 23.5%;
+}
+.tik2{
+   margin-left: -100%;
+}
+.tike1{
+   display: flex;
+   justify-content: center;
+   margin-left: 0%;
+   justify-content: flex-start;
+}
+.t1,.t2,.t3{
+   font-size: 57px;
+   font-family: 'Fantasque Sans Mono Bold';
+   font-style: bold;
+   font-weight: bold;
+   color: #FF3C00;
+   transform: rotate(23deg);
+}
+.t1{
+   margin-left: -2%;
+   margin-top: -58%;
+}
+.t2{
+   margin-left: 15%;
+   margin-top: -45%;
+}
+.t3{
+   color: #34CF12;
+   margin-left: 15%;
+   margin-top: -32%;
+}
+.tike2{
+   display: flex;
+   justify-content: center;
+   margin-left: 0%;
+   justify-content: flex-start;
+}
+.t4,.t5,.t6{
+   font-size: 57px;
+   font-family: 'Fantasque Sans Mono Bold';
+   font-style: bold;
+   font-weight: bold;
+   color: #FF3C00;
+   transform: rotate(23deg);
+}
+.t4{
+   margin-left: -3%;
+   margin-top: -40.5%;
+}
+.t5{
+   color: #220DFF;
+   margin-left: 16%;
+   margin-top: -27%;
+}
+.t6{
+   margin-left: 15%;
+   margin-top: -13.5%;
+}
+
+.tike3{
+   display: flex;
+   justify-content: center;
+   margin-left: 0;
+   justify-content: flex-end;
+}
+.t7,.t8,.t9{
+   font-size: 57px;
+   font-family: 'Fantasque Sans Mono Bold';
+   font-style: bold;
+   font-weight: bold;
+   color: #FF3C00;
+   transform: rotate(153deg);
+}
+.t8{
+   margin-left: -200%;
+   margin-top: -800%;
+}
+.t7{
+   
+   margin-right:-1000%;
+   margin-top: 0%;
+}
+/* секция 8 — автомат с игрушками */
+.eight{
+   width: 100%;
+   position: relative;
+   height: 1000px;
+   display: block;
+   margin-top: -22%;
+}
+.shars{
+   display: flex;
+   justify-content: center;
+}
+/* .sha2, .sha3{
+   width: 100%;
+} */
+.sh1{
+   margin-left: 0%;
+}
+.sh2{
+   margin-top: 32%;
+   margin-left: -5%;
+}
+.sh3{
+   margin-top: -8%;
+   margin-left: -15%;
+}
+.gli{
+   font-size: 114px;
+   font-family: 'Fantasque Sans Mono Bold';
+   font-style: bold;
+   font-weight: bold;
+   color: #E2E2E2;
+   margin-left: 56%;
+   margin-top: 14%;
+   transform: rotate(-9deg);
+   margin-top: -55%;
+   margin-left: -72%;
+   text-align: center;
+}
+.nine{
+   width: 100%;
+   position: relative;
+   height: 1000px;
+   display: block;
+   margin-top: 20%;
+}
+.acent{
+   display: flex;
+   justify-content: flex-end;
+}
+.ideal, .ac, .d, .l, .y{
+   font-size: 57px;
+   font-family: 'Fantasque Sans Mono Bold';
+   font-style: bold;
+   font-weight: bold;
+   color: #E2E2E2;
+   transform: rotate(-9deg);
+   text-align: center;
+   margin-top: -50%;
+}
+.dly{
+   display: flex;
+   justify-content: center;
+}
+.ideal{
+   margin-left: 10%;
+}
+.d{
+   margin-top: 4.5%;
+   margin-left: 16%;
+}
+.l{
+   margin-top: 2%;
+   margin-left: 7%;
+}
+.y{
+   margin-top: 1.5%;
+   margin-left: 7.5%;
+}
+.ac{
+   margin-top: 1.5%;
+   margin-left: 14%;
+}
+/* десятая секция — примеры акцидентного использования */
+.ten{
+   width: 100%;
+   position: relative;
+   height: 1000px;
+   display: block;
+   margin-top: -34%;
+}
+.park{
+   font-size: 125px;
+   font-family: 'Fantasque Sans Mono Bold';
+   font-style: bold;
+   font-weight: bold;
+   color: #FF3C00;
+   transform: rotate(-28deg);
+   text-align: center;
+   margin-left: -49%;
+   margin-top: -62%;
+}
+.down, .clown, .bonus{
+   font-size: 110px;
+   font-family: 'Fantasque Sans Mono Bold';
+   font-style: bold;
+   font-weight: bold;
+}
+.down{
+   color: #220DFF;
+   transform: rotate(-1deg);
+   margin-top: -25%;
+   margin-left: 56%;
+}
+.clown{
+   color: #34CF12;
+   transform: rotate(24deg);
+   margin-top: -1%;
+   margin-left: 75%;
+}
+.bonus{
+   color: #00003E;
+   transform: rotate(12deg);
+   margin-top: -3.5%;
+   margin-left: 63%;
+}
+.fiv{
+   font-size: 64px;
+   font-family: 'Fantasque Sans Mono Bold';
+   font-style: bold;
+   font-weight: bold;
+   color: #FF3C00;
+   transform: rotate(12deg);
+   margin-left: 67.5%;
+   margin-top: 2%;
+}
+.schet{
+   font-size: 40px;
+   font-family: 'Fantasque Sans Mono Bold';
+   font-style: bold;
+   font-weight: bold;
+   color: #E2E2E2;
+   transform: rotate(12deg);
+   margin-left: 67.5%;
+   margin-top: 0%;
+}
+/* секция 11 — парк развлечений */
+.eleven{
+   width: 100%;
+   position: relative;
+   height: 1000px;
+   display: block;
+   margin-top: -13%;
+}
+.amusement{
+   display: flex;
+   justify-content: center;
+}
+.kach{
+   margin-left: 5%;
+   margin-top: 1%;
+}
+
+/* секция 12 — финал и подвал */
+.twelwe{
+   width: 100%;
+   position: relative;
+   height: 1000px;
+   display: block;
+   margin-top: -55%;
+}
+.amusement{
+   display: flex;
+   justify-content: center;
+}
+.fp{
+   display: flex;
+   justify-content: center;
+}
+.car{
+   width: 100%;
+}
+.podval{
+   display: flex;
+}
+.ab,.group{
+   font-size: 27px;
+   font-family: 'Fantasque Sans Mono Regular';
+   font-style: normal;
+   font-weight: normal;
+   color: #E2E2E2;
+   margin-left: 4.5%;
+   margin-top: -13%;
+}
+.group{
+   margin-left: 68%;
+}
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
